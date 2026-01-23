@@ -1,4 +1,1 @@
 [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/AronMav-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/AronMav/) [![Github Badge](https://img.shields.io/badge/-AronMav-grey?style=flat&logo=github&logoColor=white)](https://github.com/AronMav/) [![Telegram Badge](https://img.shields.io/badge/-AronMav-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/aronmav)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AronMav&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronMav&layout=donut&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
